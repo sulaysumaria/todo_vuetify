@@ -14,6 +14,14 @@
     </v-toolbar>
 
     <v-navigation-drawer v-model="drawer" app class="primary">
+      <v-layout column align-center>
+        <v-flex class="mt-5">
+          <v-avatar size="100">
+            <img src="/avatar-1.png">
+          </v-avatar>
+          <p class="white--text subheading mt-1">Sulay Sumaria</p>
+        </v-flex>
+      </v-layout>
       <v-list>
         <v-list-tile :key="link.text" v-for="link in links" router :to="link.route">
           <v-list-tile-action>
