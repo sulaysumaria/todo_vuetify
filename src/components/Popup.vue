@@ -51,6 +51,7 @@ export default {
         setTimeout(() => {
           this.loading = false;
           this.dialog = false;
+          this.$emit("projectAdded");
         }, 2000);
       }
     }
