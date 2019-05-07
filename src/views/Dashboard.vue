@@ -63,7 +63,7 @@ export default {
         },
         {
           title: "Code up the homepage",
-          person: "Sulay Sumaria",
+          person: "Chun Li",
           due: "10th Jan 2019",
           status: "complete",
           content:
@@ -71,7 +71,7 @@ export default {
         },
         {
           title: "Design video thumbnails",
-          person: "Sulay Sumaria",
+          person: "Ryu",
           due: "20th Dec 2018",
           status: "complete",
           content:
@@ -79,7 +79,7 @@ export default {
         },
         {
           title: "Create a community forum",
-          person: "Sulay Sumaria",
+          person: "Gouken",
           due: "20th Oct 2018",
           status: "overdue",
           content:
