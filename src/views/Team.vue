@@ -35,16 +35,28 @@ export default {
         {
           name: "The Net Ninja",
           role: "Web developer",
-          avatar: "/avatar-1.png"
+          avatar: "/todo_vuetify/avatar-1.png"
         },
-        { name: "Ryu", role: "Graphic Designer", avatar: "/avatar-2.png" },
-        { name: "Chun Li", role: "Wed developer", avatar: "/avatar-3.png" },
+        {
+          name: "Ryu",
+          role: "Graphic Designer",
+          avatar: "/todo_vuetify/avatar-2.png"
+        },
+        {
+          name: "Chun Li",
+          role: "Wed developer",
+          avatar: "/todo_vuetify/avatar-3.png"
+        },
         {
           name: "Gouken",
           role: "Social media maverick",
-          avatar: "/avatar-4.png"
+          avatar: "/todo_vuetify/avatar-4.png"
         },
-        { name: "Yoshi", role: "Sales guru", avatar: "/avatar-5.png" }
+        {
+          name: "Yoshi",
+          role: "Sales guru",
+          avatar: "/todo_vuetify/avatar-5.png"
+        }
       ]
     };
   }
